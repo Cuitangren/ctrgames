@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## BiliBili-吹糖人分享的game
 
-You can use the [editor on GitHub](https://github.com/Cuitangren/ctrgames/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你好！！！
 
 ### Markdown
 
